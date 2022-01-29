@@ -211,6 +211,7 @@ img {
     display: flex;
     flex-direction: column;
   }
+
   .login-container,
   .illustrator-container {
     width: 100%;
